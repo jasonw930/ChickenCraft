@@ -1,0 +1,27 @@
+item.ItemMashedChicken.name=Mashed Chicken
+item.ItemChickenIngot.name=Chicken Ingot
+item.ItemChickeniteIngot.name=Chickenite Ingot
+item.ItemChickenEssence.name=Chicken Essence
+
+item.ItemChickenStick_0.name=Chicken Stick
+item.ItemChickenStick_1.name=Chicken Stick
+item.ItemChickenStick_2.name=Chicken Stick
+item.ItemChickenStick_3.name=Chicken Stick
+item.ItemChickenStick_4.name=Chicken Stick
+
+item.ToolChickenSword.name=Chicken Sword
+item.ToolChickenPickaxe.name=Chicken Pickaxe
+item.ToolChickenAxe.name=Chicken Axe
+item.ToolChickenSpade.name=Chicken Spade
+item.ToolChickenHoe.name=Chicken Hoe
+
+item.ArmorChickenHelmet.name=Chicken Helmet
+item.ArmorChickenChest.name=Chicken Chest
+item.ArmorChickenLegs.name=Chicken Legs
+item.ArmorChickenBoots.name=Chicken Boots
+
+tile.BlockChickeniteOre.name=Chickenite Ore
+
+entity.ChickenMonster.name=Chicken Monster
+
+itemGroup.TabChickenCraft=ChickenCraft
